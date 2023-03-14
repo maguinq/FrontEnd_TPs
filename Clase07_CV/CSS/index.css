@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,400&display=swap');
+
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+header {
+    background-repeat: repeat;
+    background-attachment: scroll;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.sobreMi {
+    background-color: #b499ba;
+    border-radius: 10px;
+    border-color: grey;
+    font-size: 25px;
+}
+
+h1 {
+    background-color: #d284c7;
+    border-radius: 50px;
+    color: white;
+    font-family: Times, serif;
+    margin-left: 190px;
+    margin-right: 190px;
+}
+
+img {
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 200px;
+    height: 250px;
+    margin-top: 16px;
+}
+
+body {
+    background-image: url(../img/fe.jpg); 
+}
+
+h2 {
+    background-color: #e19cd7;
+    border-radius: 5px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-right: 950px;
+}
+
+.text {
+    font-size: 23px;
+}
+
+footer {
+    background-color: #d284c7;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    text-decoration: none;
+}
