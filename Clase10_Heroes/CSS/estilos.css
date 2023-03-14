@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #1CD1B0;
+    height: 38px;
+}
+
+.descuentos {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.nav {
+    background-color: #00669F;
+    height: 101px;
+    position: sticky;
+    top: 0px;
+}
+
+.titulo {
+    font-size: 40px;
+    font-family: "Roboto", sans-serif;
+    padding: 25px;
+}
+
+.conteiner {
+    justify-content: center;
+    display: flex;
+    margin-top: 154px;
+    margin-bottom: 152px;
+
+}
+
+.heroes {
+    background-color: #F3F3F3;
+    border-radius: 15px;
+    font-family: "Roboto", sans-serif;
+    height: 529px;
+    display: inline-block;
+    margin: 30px 30px;
+    text-align: center;
+    width: 300px;
+}
+
+.mask {
+    position: relative;
+    margin-top: -70px;
+    right: -10px;
+}
+
+.heart {
+    position: relative;
+    top: -210px;
+    left: -180px;
+}
+
+.names {
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+    line-height: 50px;
+}
+
+.text {
+    text-align: left;
+    margin: 20px 10px;
+
+
+}
+
+.footer {
+    background-color: #00669F;
+    height: 51px;
+    width: 100%;
+}
+
+.pie {
+    color: #FFF9F9;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    padding: 15px;
+}
+
+
+/*/boton VER MAS/*/
+.verMas {
+    background-color: #00669F;
+    border: none;
+    color: #F3F3F3;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 35px ;
+}
